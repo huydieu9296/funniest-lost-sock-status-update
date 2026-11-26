@@ -1,0 +1,1 @@
+{"description":"Funniest Lost Sock Status Update — a one-line status update from a sock lost behind the dryer (make.fun bounty entry).","license":"MIT","name":"funniest-lost-sock-status-update","scripts":{"start":"node main.ts","test":"node main.ts"},"type":"module","version":"1.0.0"}
